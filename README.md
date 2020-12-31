@@ -1,6 +1,8 @@
 # neuroscience_for_psychiatrists
 
-This respository relates to The Cambridge Textbook of Neuroscience for Psychiatrists 2021. This respository is where we are collecting feedback on the textbook.
+This respository relates to The Cambridge Textbook of Neuroscience for Psychiatrists 2021. 
+
+Here is where we are collecting feedback on the textbook.
 
 We'd love to hear feedback on:
 
