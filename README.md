@@ -10,3 +10,5 @@ We'd love to hear feedback on:
 - Anything that was particularly helpful or you would like to see more of in future editions
 
 Please leave your comments by submitting an issue above and thanks for contributing!
+
+![Front cover](https://github.com/maryellenlynall/neuroscience_for_psychiatrists/blob/main/frontcover2023.jpg?raw=true)
